@@ -1,0 +1,12 @@
+
+
+test.c
+ccartman.c
+a.out
+
+minishell
+*.o
+*.log
+.DS_Store
+
+.vscode/settings.json

@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"header.h": "c",
+		"random": "c",
+		"memory": "c",
+		"utility": "c",
+		"sstream": "c"
+	}
+}
